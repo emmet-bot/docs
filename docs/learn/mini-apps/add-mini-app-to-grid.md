@@ -85,4 +85,4 @@ When a user opens the generated link, universaleverything.io will:
 
 For the full list of available Grid element properties, see the [LSP-28 The Grid specification](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-28-TheGrid.md#grid-element-properties).
 
-To learn more about the Grid data structure itself, see [Setting Your Grid](../mini-apps/setting-your-grid.md).
+To learn more about the Grid data structure itself, see [Setting Your Grid](./setting-your-grid.md).
