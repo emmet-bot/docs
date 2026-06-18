@@ -34,7 +34,9 @@ The `data` parameter contains the Grid widget configuration:
 
 ## URL Format
 
-For a basic iframe Mini-App, the URL format is:
+For a basic iframe Mini-App, the `data` parameter contains the widget JSON shown
+above. The raw JSON form below is useful for readability, but should not be copied
+directly as a link because the JSON must be URL-encoded when used in a query string:
 
 ```text
 https://universaleverything.io/add-widget?data={"properties":{"src":"https://warpcast.com/realfeindura"},"type":"IFRAME","width":1,"height":3}
